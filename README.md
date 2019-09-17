@@ -1,2 +1,2 @@
 # control.repo
-this is first change made to this github
+this is first change made to this gitHub program 
